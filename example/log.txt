@@ -1,0 +1,58 @@
+[Thu Feb 28 2019 15:13:50] length 2
+[Thu Feb 28 2019 15:13:50] length1 *
+[Thu Feb 28 2019 15:13:50] length2 txt
+[Thu Feb 28 2019 15:13:50] \folder\Testtest.txt
+[Thu Feb 28 2019 15:13:50] length 2
+[Thu Feb 28 2019 15:13:50] length1 *
+[Thu Feb 28 2019 15:13:50] length2 txt
+[Thu Feb 28 2019 15:13:50] \folder\TestHMC.txt
+[Thu Feb 28 2019 15:13:50] length 2
+[Thu Feb 28 2019 15:13:50] length1 *
+[Thu Feb 28 2019 15:13:50] length2 txt
+[Thu Feb 28 2019 15:13:50] \folder\TestFinenessAnalysisSQL.txt
+[Thu Feb 28 2019 15:14:56] length 2
+[Thu Feb 28 2019 15:14:56] length1 *
+[Thu Feb 28 2019 15:14:56] length2 txt
+[Thu Feb 28 2019 15:14:56] \folder\TestFinenessAnalysisSQL.txt
+[Thu Feb 28 2019 15:14:56] length 2
+[Thu Feb 28 2019 15:14:56] length1 *
+[Thu Feb 28 2019 15:14:56] length2 txt
+[Thu Feb 28 2019 15:14:56] \folder\Testtest.txt
+[Thu Feb 28 2019 15:14:56] length 2
+[Thu Feb 28 2019 15:14:56] length1 *
+[Thu Feb 28 2019 15:14:56] length2 txt
+[Thu Feb 28 2019 15:14:56] \folder\TestHMC.txt
+[Thu Feb 28 2019 15:15:30] Uninstall complete.
+[Thu Feb 28 2019 15:15:30] The service exists: 
+[Thu Feb 28 2019 15:26:46] NodeInterfaceMoveFile started!
+[Thu Feb 28 2019 15:26:50] length 2
+[Thu Feb 28 2019 15:26:50] length1 *
+[Thu Feb 28 2019 15:26:50] length2 txt
+[Thu Feb 28 2019 15:26:50] \folder\TestFinenessAnalysisSQL.txt
+[Thu Feb 28 2019 15:26:50] length 2
+[Thu Feb 28 2019 15:26:50] length1 *
+[Thu Feb 28 2019 15:26:50] length2 txt
+[Thu Feb 28 2019 15:26:50] \folder\TestHMC.txt
+[Thu Feb 28 2019 15:26:50] length 2
+[Thu Feb 28 2019 15:26:50] length1 *
+[Thu Feb 28 2019 15:26:50] length2 txt
+[Thu Feb 28 2019 15:26:50] \folder\Testtest.txt
+[Thu Feb 28 2019 15:26:50] length 2
+[Thu Feb 28 2019 15:26:50] length1 *
+[Thu Feb 28 2019 15:26:50] length2 txt
+[Thu Feb 28 2019 15:26:50] \folder\Testtest.txt
+[Thu Feb 28 2019 15:26:50] length 2
+[Thu Feb 28 2019 15:26:50] length1 *
+[Thu Feb 28 2019 15:26:50] length2 txt
+[Thu Feb 28 2019 15:26:50] \folder\TestFinenessAnalysisSQL.txt
+[Thu Feb 28 2019 15:26:50] length 2
+[Thu Feb 28 2019 15:26:50] length1 *
+[Thu Feb 28 2019 15:26:50] length2 txt
+[Thu Feb 28 2019 15:26:50] \folder\TestHMC.txt
+[Thu Feb 28 2019 15:33:11] This service is already installed.
+[Thu Feb 28 2019 15:34:32] This service is already installed.
+[Thu Feb 28 2019 15:35:20] Uninstall complete.
+[Thu Feb 28 2019 15:35:20] The service exists: 
+[Thu Feb 28 2019 15:37:01] NodeInterfaceMoveFile started!
+[Thu Feb 28 2019 15:37:19] Uninstall complete.
+[Thu Feb 28 2019 15:37:19] The service exists: 
