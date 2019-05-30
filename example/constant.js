@@ -5,5 +5,6 @@ exports.port='22';
 exports.username='sftp-user';
 exports.password='infse';
 exports.filter='*.txt';
-
+exports.depth=0;  // subfolder
+exports.serviceName="INFMoveFile";
 //module.exports
