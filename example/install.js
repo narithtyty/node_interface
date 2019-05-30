@@ -1,9 +1,10 @@
 var Service = require('node-windows').Service;
 var log=require('./logfile');
+const config=require('./constant');
 // Create a new service object
 var svc = new Service({
-  name:'NodeInterfaceMoveFile',
-  description: 'NodeInterfaceMoveFile.',
+  name: config.serviceName,
+  description: config.serviceName,
   script: require('path').join('interfaceMoveFile.js'),    //script: require('path').join('helloworld.js'),
   env:{
     name: "NODE_ENV",
